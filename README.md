@@ -1,0 +1,2 @@
+# Faadoo
+Finance with Python
